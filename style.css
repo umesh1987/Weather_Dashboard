@@ -1,0 +1,61 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.inputValue {
+    width: 150px;
+}
+
+.container {
+    border: 1px solid black;
+}
+
+.lead {
+    color: rgb(0, 0, 0);
+    text-align: end;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.navbar {
+    color: white;
+    padding: 25px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.btn {
+    background-color: white;
+}
+
+.btn:hover {
+    color: rgb(238, 103, 41);
+}
+
+.citySection {}
+
+.line {
+    background-color: black;
+    border: solid black;
+    padding: 10px;
+}
+
+.cityList {
+    text-align: center;
+    background-color: lightblue;
+}
+
+.bigDisplay {
+    background-color: blue;
+}
+
+.wDisplay {
+    padding: 100px;
+}
+
+.card-body {
+    font-weight: bold;
+}
